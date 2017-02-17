@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ducky Does Games</title>
+</head>
+<body>
+
+<h1>Ducky Does Games</h1>
+<p>This is the game part of my website</p>
+<p>If you want to subscribe click below</p>
+<a href="url"><img src="Sub.gif"</a>
+
+</body>
+</html>
